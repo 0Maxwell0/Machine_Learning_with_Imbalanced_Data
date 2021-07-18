@@ -2,13 +2,13 @@ Imbalanced_Data_nb
 
 
 
-In this reposetory, I have placed my notebooks with works on imbalanced data. The aim of doing the work was to gain hand-on experience, building the intuition, and getting familiar with the most friquent approaches when working on imbalanced data.
+In this repository, I have placed my notebooks with works on imbalanced data. The aim of doing the work was to gain hands-on experience, building intuition, and getting familiar with the most frequent approaches when working on imbalanced data.
 
 Main approaches for dealing with imbalanced data:
-1. On a data level (under-dampling, over-sampling)
-2. Cost sensative
+1. On a data level (under-sampling, over-sampling)
+2. Cost-sensitive approach
 3. Ensemble algorithms<br>
-In this reposetory, there are works with all 3 approaches.  
+In this repository, there are works with all 3 approaches.  
 
 =======================================================
 
@@ -36,6 +36,9 @@ There are no missing values. All variables are numerical.<br>
 =======================================================
 
 Content:
+
+0. Cheatsheet (under-sampling, over-sampling)
+
 1. **Udersampling Methods**
 	- Random Undersampling
 	- Condensed Nearest Neighbour
@@ -84,5 +87,5 @@ Content:
 ===================================================================================================
 
 
-Tons of thanks to Soledad Galli as all the notebooks and materials in this repo are based on her course ( 
+Tons of thanks to Soledad Galli as mostly notebooks and materials in this repo are based on her course ( 
  https://www.udemy.com/course/machine-learning-with-imbalanced-data/?referralCode=F30537642DA57D19ED83 )
