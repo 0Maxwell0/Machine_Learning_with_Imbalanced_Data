@@ -7,16 +7,16 @@ Main approaches for dealing with imbalanced data:
 3. Ensemble algorithms<br>
 In this reposetory, there are works with all 3 approaches.  
 
-===================================================================================================
+=======================================================
 
-**Data**:
+**Data**:<br>
 The link:
 https://www.kdd.org/kdd-cup/view/kdd-cup-2004/Data <br>
 target: whether a protein is homologous to a target protein<br>
 variables: 74. The features describe the match (e.g. the score of a sequence alignment) between the native protein sequence and the sequence that is tested for homology.<br>
 There are no missing values. All variables are numerical.<br>
 
-===================================================================================================
+=======================================================
 
 **Additional Packages**:
 - autopep8==1.5.4
@@ -30,7 +30,7 @@ There are no missing values. All variables are numerical.<br>
 - yapf==0.30.0
 - yellowbrick==1.2
 
-===================================================================================================
+=======================================================
 
 Content:
 1. **Udersampling Methods**
