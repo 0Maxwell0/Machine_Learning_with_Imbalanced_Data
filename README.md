@@ -84,4 +84,5 @@ Content:
 ===================================================================================================
 
 
-A tons of thanks to Soledad Galli as all the notebooks and materials in this repo are based on her course (  https://www.udemy.com/course/machine-learning-with-imbalanced-data/?referralCode=F30537642DA57D19ED83 )
+Tons of thanks to Soledad Galli as all the notebooks and materials in this repo are based on her course ( 
+ https://www.udemy.com/course/machine-learning-with-imbalanced-data/?referralCode=F30537642DA57D19ED83 )
