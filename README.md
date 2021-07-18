@@ -4,31 +4,31 @@ In this reposetory, I have placed my notebooks with works on imbalanced data. Th
 Main approaches for dealing with imbalanced data:
 1. On a data level (under-dampling, over-sampling)
 2. Cost sensative
-3. Ensemble algorithms
+3. Ensemble algorithms<br>
 In this reposetory, there are works with all 3 approaches.  
 
 ===================================================================================================
 
 **Data**:
 The link:
-https://www.kdd.org/kdd-cup/view/kdd-cup-2004/Data
-target: whether a protein is homologous to a target protein
-variables: 74. The features describe the match (e.g. the score of a sequence alignment) between the native protein sequence and the sequence that is tested for homology.
-There are no missing values. All variables are numerical.
+https://www.kdd.org/kdd-cup/view/kdd-cup-2004/Data <br>
+target: whether a protein is homologous to a target protein<br>
+variables: 74. The features describe the match (e.g. the score of a sequence alignment) between the native protein sequence and the sequence that is tested for homology.<br>
+There are no missing values. All variables are numerical.<br>
 
 ===================================================================================================
 
 **Additional Packages**:
-autopep8==1.5.4
-imbalanced-learn==0.7.0
-matplotlib==3.3.2
-numpy==1.19.2
-pandas==1.1.3
-scikit-learn==0.23.2
-scipy==1.5.2
-seaborn==0.11.0
-yapf==0.30.0
-yellowbrick==1.2
+- autopep8==1.5.4
+- imbalanced-learn==0.7.0
+- matplotlib==3.3.2
+- numpy==1.19.2
+- pandas==1.1.3
+- scikit-learn==0.23.2
+- scipy==1.5.2
+- seaborn==0.11.0
+- yapf==0.30.0
+- yellowbrick==1.2
 
 ===================================================================================================
 
@@ -79,7 +79,6 @@ Content:
 8. the fetched dataset
 
 ===================================================================================================
-===================================================================================================
-===================================================================================================
+
 
 A tons of thanks to Soledad Galli as all the notebooks and materials in this repo are based on her course (  https://www.udemy.com/course/machine-learning-with-imbalanced-data/?referralCode=F30537642DA57D19ED83 )
