@@ -1,4 +1,7 @@
 Imbalanced_Data_nb
+
+
+
 In this reposetory, I have placed my notebooks with works on imbalanced data. The aim of doing the work was to gain hand-on experience, building the intuition, and getting familiar with the most friquent approaches when working on imbalanced data.
 
 Main approaches for dealing with imbalanced data:
