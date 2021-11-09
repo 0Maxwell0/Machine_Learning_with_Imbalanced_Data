@@ -1,5 +1,4 @@
-Imbalanced_Data_nb
-
+Imbalanced_Data notebook
 
 
 In this repository, I have placed my notebooks with works on imbalanced data. The aim of doing the work was to gain hands-on experience, building intuition, and getting familiar with the most frequent approaches when working on imbalanced data.
